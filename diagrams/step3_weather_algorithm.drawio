@@ -1,0 +1,100 @@
+<mxfile host="65bd71144e">
+    <diagram id="MlmT-kD5YxcvDswyraIS" name="Page-1">
+        <mxGraphModel dx="619" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="40" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Температура ≥ 20°C?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="140" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Нет" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Да" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="9" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Лёгкая одежда" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Тёплая одежда" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="240" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="20" target="33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;Console&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;WriteLine&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #98c379;&quot;&gt;&quot;Выбор одежды по погоде&quot;&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;Console&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;Write&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #98c379;&quot;&gt;&quot;Введите текущую температуру (°C): &quot;&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;);&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1005" y="-110" width="490" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="23" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="23" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&#xa;&lt;div style=&quot;color: #abb2bf;background-color: #16191d;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 18px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c678dd;&quot;&gt;if&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; (&lt;/span&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;temperature&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;&amp;gt;=&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d19a66;&quot;&gt;20&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1100" y="140" width="300" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="25" target="31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Нет" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1470" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="27" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Да" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="910" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="29" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;Console&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;WriteLine&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #98c379;&quot;&gt;&quot;Наденьте лёгкую &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #98c379;&quot;&gt;одежду&quot;&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;);&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="920" y="290" width="190" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="31" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;Console&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;WriteLine&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #98c379;&quot;&gt;&quot;Наденьте тёплую&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #98c379;&quot;&gt; одежду&quot;&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;);&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="1420" y="290" width="190" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;Console&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #61afef;&quot;&gt;WriteLine&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #98c379;&quot;&gt;&quot;Хорошего дня!&quot;&lt;/span&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;);&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1180" y="360" width="170" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="33" target="23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&#xa;&lt;div style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: light-dark(rgb(22, 25, 29), rgb(214, 216, 220)); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;,&amp;quot;background-color&amp;quot;:&amp;quot;rgb(22, 25, 29)&amp;quot;}&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(198, 120, 221), rgb(160, 93, 180)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(198, 120, 221)&amp;quot;}&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;}&quot;&gt; &lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(224, 108, 117), rgb(200, 101, 108)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(224, 108, 117)&amp;quot;}&quot;&gt;temperature&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;}&quot;&gt; &lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;}&quot;&gt;=&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: light-dark(rgb(22, 25, 29), rgb(214, 216, 220)); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;,&amp;quot;background-color&amp;quot;:&amp;quot;rgb(22, 25, 29)&amp;quot;}&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;}&quot;&gt; &lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(229, 192, 123), rgb(99, 67, 8)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(229, 192, 123)&amp;quot;}&quot;&gt;Convert&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;}&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(97, 175, 239), rgb(41, 108, 163)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(97, 175, 239)&amp;quot;}&quot;&gt;ToInt32&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: light-dark(rgb(22, 25, 29), rgb(214, 216, 220)); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 18px; white-space: pre;&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;,&amp;quot;background-color&amp;quot;:&amp;quot;rgb(22, 25, 29)&amp;quot;}&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;}&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(229, 192, 123), rgb(99, 67, 8)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(229, 192, 123)&amp;quot;}&quot;&gt;Console&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;}&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(97, 175, 239), rgb(41, 108, 163)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(97, 175, 239)&amp;quot;}&quot;&gt;ReadLine&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(171, 178, 191), rgb(79, 85, 96)); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot; data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(171, 178, 191)&amp;quot;}&quot;&gt;());&lt;/span&gt;&lt;/div&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="1135" y="30" width="230" height="90" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
